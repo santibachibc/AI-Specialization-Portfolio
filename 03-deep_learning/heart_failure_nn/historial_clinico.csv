@@ -1,0 +1,300 @@
+edad,creatinina_fosfocinasa,diabetes,sangre_contraccion,plaquetas,creatinina,sodio,seguimiento,fallecimiento,anemia,tension,sexo,fumador
+75,582,No,20,265000.0,1.9,130,4,1,No,muy alta,Hombre,ocasional
+55,7861,No,38,263358.03,1.1,136,6,1,No,ligeramente alta,Hombre,ocasional
+65,146,No,20,162000.0,1.3,129,7,1,No,ligeramente alta,Hombre,>2 paquetes/día
+50,111,No,20,210000.0,1.9,137,7,1,Si,ligeramente alta,Hombre,ocasional
+65,160,Sí,20,327000.0,2.7,116,8,1,Si,ligeramente alta,Mujer,ocasional
+90,47,No,40,204000.0,2.1,132,8,1,Si,muy alta,Hombre,>2 paquetes/día
+75,246,No,15,127000.0,1.2,137,10,1,Si,ligeramente alta,Hombre,ocasional
+60,315,Sí,60,454000.0,1.1,131,10,1,Si,ligeramente alta,Hombre,>2 paquetes/día
+65,157,No,65,263358.03,1.5,138,10,1,No,ligeramente alta,Mujer,ocasional
+80,123,No,35,388000.0,9.4,133,10,1,Si,muy alta,Hombre,>2 paquetes/día
+75,81,No,38,368000.0,4.0,131,10,1,Si,muy alta,Hombre,>2 paquetes/día
+62,231,No,25,253000.0,0.9,140,10,1,No,muy alta,Hombre,>2 paquetes/día
+45,981,No,30,136000.0,1.1,137,11,1,Si,ligeramente alta,Hombre,ocasional
+50,168,No,38,276000.0,1.1,137,11,1,Si,muy alta,Hombre,ocasional
+49,80,No,30,427000.0,1.0,138,12,0,Si,alta,Mujer,no
+82,379,No,50,47000.0,1.3,136,13,1,Si,ligeramente alta,Hombre,ocasional
+87,149,No,38,262000.0,0.9,140,14,1,Si,ligeramente alta,Hombre,ocasional
+45,582,No,14,166000.0,0.8,127,14,1,No,ligeramente alta,Hombre,ocasional
+70,125,No,25,237000.0,1.0,140,15,1,Si,muy alta,Mujer,ocasional
+48,582,Sí,55,87000.0,1.9,121,15,1,Si,ligeramente alta,Mujer,ocasional
+65,52,No,25,276000.0,1.3,137,16,0,Si,alta,Mujer,no
+65,128,Sí,30,297000.0,1.6,136,20,1,Si,muy alta,Mujer,ocasional
+68,220,No,35,289000.0,0.9,140,20,1,Si,muy alta,Hombre,>2 paquetes/día
+53,63,Sí,60,368000.0,0.8,135,22,0,No,normal,Hombre,no
+75,582,Sí,30,263358.03,1.83,134,23,1,No,muy alta,Mujer,ocasional
+80,148,Sí,38,149000.0,1.9,144,23,1,No,ligeramente alta,Hombre,>2 paquetes/día
+95,112,No,40,196000.0,1.0,138,24,1,Si,muy alta,Mujer,ocasional
+70,122,Sí,45,284000.0,1.3,136,26,1,No,muy alta,Hombre,>2 paquetes/día
+58,60,No,38,153000.0,5.8,134,26,1,Si,ligeramente alta,Hombre,ocasional
+82,70,Sí,30,200000.0,1.2,132,26,1,No,ligeramente alta,Hombre,>2 paquetes/día
+94,582,Sí,38,263358.03,1.83,134,27,1,No,muy alta,Hombre,ocasional
+85,23,No,45,360000.0,3.0,132,28,1,No,ligeramente alta,Hombre,ocasional
+50,249,Sí,35,319000.0,1.0,128,28,1,Si,muy alta,Mujer,ocasional
+50,159,Sí,30,302000.0,1.2,138,29,0,Si,normal,Mujer,no
+65,94,Sí,50,188000.0,1.0,140,29,1,No,muy alta,Hombre,ocasional
+69,582,Sí,35,228000.0,3.5,134,30,1,No,ligeramente alta,Hombre,ocasional
+90,60,Sí,50,226000.0,1.0,134,30,1,Si,ligeramente alta,Hombre,ocasional
+82,855,Sí,50,321000.0,1.0,145,30,1,Si,muy alta,Mujer,ocasional
+60,2656,Sí,30,305000.0,2.3,137,30,0,No,normal,Hombre,no
+60,235,Sí,38,329000.0,3.0,142,30,1,No,ligeramente alta,Mujer,ocasional
+70,582,No,20,263358.03,1.83,134,31,1,No,muy alta,Hombre,>2 paquetes/día
+50,124,Sí,30,153000.0,1.2,136,32,1,No,muy alta,Mujer,>2 paquetes/día
+70,571,Sí,45,185000.0,1.2,139,33,1,No,muy alta,Hombre,>2 paquetes/día
+72,127,Sí,50,218000.0,1.0,134,33,0,No,alta,Hombre,no
+60,588,Sí,60,194000.0,1.1,142,33,1,Si,ligeramente alta,Mujer,ocasional
+50,582,Sí,38,310000.0,1.9,135,35,1,No,ligeramente alta,Hombre,>2 paquetes/día
+51,1380,No,25,271000.0,0.9,130,38,1,No,muy alta,Hombre,ocasional
+60,582,Sí,38,451000.0,0.6,138,40,1,No,muy alta,Hombre,>2 paquetes/día
+80,553,No,20,140000.0,4.4,133,41,1,Si,muy alta,Hombre,ocasional
+57,129,No,30,395000.0,1.0,140,42,1,Si,ligeramente alta,Mujer,ocasional
+68,577,No,25,166000.0,1.0,138,43,1,Si,muy alta,Hombre,ocasional
+53,91,No,20,418000.0,1.4,139,43,1,Si,muy alta,Mujer,ocasional
+60,3964,Sí,62,263358.03,6.8,146,43,1,No,ligeramente alta,Mujer,ocasional
+70,69,Sí,50,351000.0,1.0,134,44,1,Si,muy alta,Mujer,ocasional
+60,260,Sí,38,255000.0,2.2,132,45,1,Si,ligeramente alta,Mujer,>2 paquetes/día
+95,371,No,30,461000.0,2.0,132,50,1,Si,ligeramente alta,Hombre,ocasional
+70,75,No,35,223000.0,2.7,138,54,0,Si,normal,Hombre,sí
+60,607,No,40,216000.0,0.6,138,54,0,Si,normal,Hombre,sí
+49,789,No,20,319000.0,1.1,136,55,1,No,muy alta,Hombre,>2 paquetes/día
+72,364,Sí,20,254000.0,1.3,136,59,1,No,muy alta,Hombre,>2 paquetes/día
+45,7702,Sí,25,390000.0,1.0,139,60,1,No,muy alta,Hombre,ocasional
+50,318,No,40,216000.0,2.3,131,60,1,No,muy alta,Mujer,ocasional
+55,109,No,35,254000.0,1.1,139,60,0,No,normal,Hombre,sí
+45,582,No,35,385000.0,1.0,145,61,1,No,ligeramente alta,Hombre,ocasional
+45,582,No,80,263358.03,1.18,137,63,0,No,normal,Mujer,no
+60,68,No,20,119000.0,2.9,127,64,1,No,ligeramente alta,Hombre,>2 paquetes/día
+42,250,Sí,15,213000.0,1.3,136,65,1,Si,ligeramente alta,Mujer,ocasional
+72,110,No,25,274000.0,1.0,140,65,1,Si,ligeramente alta,Hombre,>2 paquetes/día
+70,161,No,25,244000.0,1.2,142,66,1,No,ligeramente alta,Mujer,ocasional
+65,113,Sí,25,497000.0,1.83,135,67,1,No,ligeramente alta,Hombre,ocasional
+41,148,No,40,374000.0,0.8,140,68,0,No,normal,Hombre,sí
+58,582,Sí,35,122000.0,0.9,139,71,0,No,normal,Hombre,sí
+85,5882,No,35,243000.0,1.0,132,72,1,No,ligeramente alta,Hombre,>2 paquetes/día
+65,224,Sí,50,149000.0,1.3,137,72,0,No,normal,Hombre,sí
+69,582,No,20,266000.0,1.2,134,73,1,No,ligeramente alta,Hombre,>2 paquetes/día
+60,47,No,20,204000.0,0.7,139,73,1,Si,ligeramente alta,Hombre,>2 paquetes/día
+70,92,No,60,317000.0,0.8,140,74,0,No,alta,Mujer,sí
+42,102,Sí,40,237000.0,1.2,140,74,0,No,normal,Hombre,no
+75,203,Sí,38,283000.0,0.6,131,74,0,Si,alta,Hombre,sí
+55,336,No,45,324000.0,0.9,140,74,0,No,alta,Mujer,no
+70,69,No,40,293000.0,1.7,136,75,0,No,normal,Mujer,no
+67,582,No,50,263358.03,1.18,137,76,0,No,normal,Hombre,sí
+60,76,Sí,25,196000.0,2.5,132,77,1,Si,ligeramente alta,Mujer,ocasional
+79,55,No,50,172000.0,1.8,133,78,0,Si,alta,Hombre,no
+59,280,Sí,25,302000.0,1.0,141,78,1,Si,muy alta,Mujer,ocasional
+51,78,No,50,406000.0,0.7,140,79,0,No,normal,Hombre,no
+55,47,No,35,173000.0,1.1,137,79,0,No,alta,Hombre,no
+65,68,Sí,60,304000.0,0.8,140,79,0,Si,alta,Hombre,no
+44,84,Sí,40,235000.0,0.7,139,79,0,No,alta,Hombre,no
+57,115,No,25,181000.0,1.1,144,79,0,Si,alta,Hombre,no
+70,66,Sí,45,249000.0,0.8,136,80,0,No,normal,Hombre,sí
+60,897,Sí,45,297000.0,1.0,133,80,0,No,normal,Hombre,no
+42,582,No,60,263358.03,1.18,137,82,0,No,normal,Mujer,no
+60,154,No,25,210000.0,1.7,135,82,1,Si,ligeramente alta,Hombre,ocasional
+58,144,Sí,38,327000.0,0.7,142,83,0,No,alta,Mujer,no
+58,133,No,60,219000.0,1.0,141,83,0,Si,alta,Hombre,no
+63,514,Sí,25,254000.0,1.3,134,83,0,Si,alta,Hombre,no
+70,59,No,60,255000.0,1.1,136,85,0,Si,normal,Mujer,no
+60,156,Sí,25,318000.0,1.2,137,85,0,Si,alta,Mujer,no
+63,61,Sí,40,221000.0,1.1,140,86,0,Si,normal,Mujer,no
+65,305,No,25,298000.0,1.1,141,87,0,Sí,normal,Man,no
+75,582,No,45,263358.03,1.18,137,87,0,no,alta,Man,no
+80,898,No,25,149000.0,1.1,144,87,0,no,normal,Man,sí
+42,5209,No,30,226000.0,1.0,140,87,0,no,normal,Man,sí
+60,53,No,50,286000.0,2.3,143,87,0,no,alta,Woman,no
+72,328,No,30,621000.0,1.7,138,88,1,Sí,muy alta,Woman,>2 paquetes/día
+55,748,No,45,263000.0,1.3,137,88,0,no,normal,Man,no
+45,1876,Sí,35,226000.0,0.9,138,88,0,Sí,normal,Man,no
+63,936,No,38,304000.0,1.1,133,88,0,no,normal,Man,sí
+45,292,Sí,35,850000.0,1.3,142,88,0,no,normal,Man,sí
+85,129,No,60,306000.0,1.2,132,90,1,no,ligeramente alta,Man,>2 paquetes/día
+55,60,No,35,228000.0,1.2,135,90,0,no,normal,Man,sí
+50,369,Sí,25,252000.0,1.6,136,90,0,no,normal,Man,no
+70,143,No,60,351000.0,1.3,137,90,1,Sí,ligeramente alta,Woman,ocasional
+60,754,Sí,40,328000.0,1.2,126,91,0,Sí,alta,Man,no
+58,400,No,40,164000.0,1.0,139,91,0,Sí,normal,Woman,no
+60,96,Sí,60,271000.0,0.7,136,94,0,Sí,alta,Woman,no
+85,102,No,60,507000.0,3.2,138,94,0,Sí,normal,Woman,no
+65,113,Sí,60,203000.0,0.9,140,94,0,Sí,alta,Woman,no
+86,582,No,38,263358.03,1.83,134,95,1,no,ligeramente alta,Woman,ocasional
+60,737,No,60,210000.0,1.5,135,95,0,Sí,alta,Man,sí
+66,68,Sí,38,162000.0,1.0,136,95,0,Sí,alta,Woman,no
+60,96,Sí,38,228000.0,0.75,140,95,0,no,normal,Woman,no
+60,582,No,30,127000.0,0.9,145,95,0,Sí,alta,Woman,no
+60,582,No,40,217000.0,3.7,134,96,1,no,ligeramente alta,Man,ocasional
+43,358,No,50,237000.0,1.3,135,97,0,Sí,normal,Woman,no
+46,168,Sí,17,271000.0,2.1,124,100,1,no,muy alta,Woman,ocasional
+58,200,Sí,60,300000.0,0.8,137,104,0,Sí,normal,Woman,no
+61,248,No,30,267000.0,0.7,136,104,0,no,alta,Man,sí
+53,270,Sí,35,227000.0,3.4,145,105,0,Sí,normal,Man,no
+53,1808,No,60,249000.0,0.7,138,106,0,Sí,alta,Man,sí
+60,1082,Sí,45,250000.0,6.1,131,107,0,Sí,normal,Man,no
+46,719,No,40,263358.03,1.18,137,107,0,no,alta,Woman,no
+63,193,No,60,295000.0,1.3,145,107,0,no,alta,Man,sí
+81,4540,No,35,231000.0,1.18,137,107,0,no,normal,Man,sí
+75,582,No,40,263358.03,1.18,137,107,0,no,normal,Man,no
+65,59,Sí,60,172000.0,0.9,137,107,0,Sí,normal,Woman,no
+68,646,No,25,305000.0,2.1,130,108,0,Sí,normal,Man,no
+62,281,Sí,35,221000.0,1.0,136,108,0,no,normal,Woman,no
+50,1548,No,30,211000.0,0.8,138,108,0,no,alta,Man,no
+80,805,No,38,263358.03,1.1,134,109,1,no,ligeramente alta,Man,ocasional
+46,291,No,35,348000.0,0.9,140,109,0,Sí,normal,Woman,no
+50,482,Sí,30,329000.0,0.9,132,109,0,no,normal,Woman,no
+61,84,No,40,229000.0,0.9,141,110,0,Sí,alta,Woman,no
+72,943,No,25,338000.0,1.7,139,111,1,Sí,muy alta,Man,>2 paquetes/día
+50,185,No,30,266000.0,0.7,141,112,0,no,normal,Man,sí
+52,132,No,30,218000.0,0.7,136,112,0,no,normal,Man,sí
+64,1610,No,60,242000.0,1.0,137,113,0,no,normal,Man,no
+75,582,No,30,225000.0,1.83,134,113,1,Sí,ligeramente alta,Man,ocasional
+60,2261,No,35,228000.0,0.9,136,115,0,no,alta,Man,no
+72,233,No,45,235000.0,2.5,135,115,1,no,muy alta,Woman,ocasional
+62,30,Sí,60,244000.0,0.9,139,117,0,no,alta,Man,no
+50,115,No,45,184000.0,0.9,134,118,0,no,alta,Man,sí
+50,1846,Sí,35,263358.03,1.18,137,119,0,no,normal,Man,sí
+65,335,No,35,235000.0,0.8,136,120,0,Sí,alta,Woman,no
+60,231,Sí,25,194000.0,1.7,140,120,0,Sí,normal,Man,no
+52,58,No,35,277000.0,1.4,136,120,0,Sí,normal,Woman,no
+50,250,No,25,262000.0,1.0,136,120,0,no,normal,Man,sí
+85,910,No,50,235000.0,1.3,134,121,0,Sí,normal,Man,no
+59,129,No,45,362000.0,1.1,139,121,0,Sí,alta,Man,sí
+66,72,No,40,242000.0,1.2,134,121,0,Sí,alta,Man,no
+45,130,No,35,174000.0,0.8,139,121,0,Sí,normal,Man,sí
+63,582,No,40,448000.0,0.9,137,123,0,Sí,normal,Man,sí
+50,2334,Sí,35,75000.0,0.9,142,126,1,Sí,ligeramente alta,Woman,ocasional
+45,2442,Sí,30,334000.0,1.1,139,129,1,no,ligeramente alta,Man,ocasional
+80,776,Sí,38,192000.0,1.3,135,130,1,no,muy alta,Woman,ocasional
+53,196,No,60,220000.0,0.7,133,134,0,no,normal,Man,sí
+59,66,Sí,20,70000.0,2.4,134,135,1,no,ligeramente alta,Man,ocasional
+65,582,Sí,40,270000.0,1.0,138,140,0,no,normal,Woman,no
+70,835,No,35,305000.0,0.8,133,145,0,no,alta,Woman,no
+51,582,Sí,35,263358.03,1.5,136,145,0,Sí,normal,Man,sí
+52,3966,No,40,325000.0,0.9,140,146,0,no,normal,Man,sí
+70,171,No,60,176000.0,1.1,145,146,0,Sí,alta,Man,sí
+50,115,No,20,189000.0,0.8,139,146,0,Sí,normal,Man,no
+65,198,Sí,35,281000.0,0.9,137,146,0,no,alta,Man,sí
+60,95,No,60,337000.0,1.0,138,146,0,Sí,normal,Man,sí
+69,1419,No,40,105000.0,1.0,135,147,0,no,normal,Man,sí
+49,69,No,50,132000.0,1.0,140,147,0,Sí,normal,Woman,no
+63,122,Sí,60,267000.0,1.2,145,147,0,Sí,normal,Man,no
+55,835,No,40,279000.0,0.7,140,147,0,no,normal,Man,sí
+40,478,Sí,30,303000.0,0.9,136,148,0,no,normal,Man,no
+59,176,Sí,25,221000.0,1.0,136,150,1,Sí,ligeramente alta,Man,>2 paquetes/día
+65,395,Sí,25,265000.0,1.2,136,154,1,no,ligeramente alta,Man,>2 paquetes/día
+75,99,No,38,224000.0,2.5,134,162,1,no,muy alta,Man,ocasional
+58,145,No,25,219000.0,1.2,137,170,1,Sí,ligeramente alta,Man,>2 paquetes/día
+60,104,Sí,30,389000.0,1.5,136,171,1,Sí,ligeramente alta,Man,ocasional
+50,582,No,50,153000.0,0.6,134,172,1,no,ligeramente alta,Woman,ocasional
+60,1896,Sí,25,365000.0,2.1,144,172,1,no,ligeramente alta,Woman,ocasional
+60,151,Sí,40,201000.0,1.0,136,172,0,Sí,alta,Woman,no
+40,244,No,45,275000.0,0.9,140,174,0,no,alta,Woman,no
+80,582,Sí,35,350000.0,2.1,134,174,0,no,normal,Man,no
+64,62,No,60,309000.0,1.5,135,174,0,Sí,normal,Woman,no
+50,121,Sí,40,260000.0,0.7,130,175,0,Sí,normal,Man,no
+73,231,Sí,30,160000.0,1.18,142,180,0,Sí,normal,Man,sí
+45,582,No,20,126000.0,1.6,135,180,1,no,muy alta,Man,ocasional
+77,418,No,45,223000.0,1.8,145,180,1,Sí,ligeramente alta,Man,ocasional
+45,582,Sí,38,263358.03,1.18,137,185,0,no,alta,Woman,no
+65,167,No,30,259000.0,0.8,138,186,0,no,normal,Woman,no
+50,582,Sí,20,279000.0,1.0,134,186,0,Sí,alta,Woman,no
+60,1211,Sí,35,263358.03,1.8,113,186,0,no,normal,Man,sí
+63,1767,No,45,73000.0,0.7,137,186,0,,normal,masculino,no
+45,308,Sí,60,377000.0,1.0,136,186,0,0,alta,masculino,no
+70,97,No,60,220000.0,0.9,138,186,0,0,alta,masculino,no
+60,59,No,25,212000.0,3.5,136,187,0,0,alta,masculino,sí
+78,64,No,40,277000.0,0.7,137,187,0,1,normal,masculino,sí
+50,167,Sí,45,362000.0,1.0,136,187,0,1,normal,femenino,no
+40,101,No,40,226000.0,0.8,141,187,0,1,normal,femenino,no
+85,212,No,38,186000.0,0.9,136,187,0,0,normal,masculino,no
+60,2281,Sí,40,283000.0,1.0,141,187,0,1,normal,femenino,no
+49,972,Sí,35,268000.0,0.8,130,187,0,0,alta,femenino,no
+70,212,Sí,17,389000.0,1.0,136,188,0,0,alta,masculino,sí
+50,582,No,62,147000.0,0.8,140,192,0,0,alta,masculino,sí
+78,224,No,50,481000.0,1.4,138,192,0,0,normal,masculino,sí
+48,131,Sí,30,244000.0,1.6,130,193,1,1,muy alta,femenino,ocasional
+65,135,No,35,290000.0,0.8,134,194,0,1,alta,masculino,no
+73,582,No,35,203000.0,1.3,134,195,0,0,alta,masculino,no
+70,1202,No,50,358000.0,0.9,141,196,0,0,alta,femenino,no
+54,427,No,70,151000.0,9.0,137,196,1,1,muy alta,femenino,ocasional
+68,1021,Sí,35,271000.0,1.1,134,197,0,1,normal,masculino,no
+55,582,Sí,35,371000.0,0.7,140,197,0,0,alta,femenino,no
+73,582,No,20,263358.03,1.83,134,198,1,0,ligeramente alta,masculino,ocasional
+65,118,No,50,194000.0,1.1,145,200,0,0,normal,masculino,sí
+42,86,No,35,365000.0,1.1,139,201,0,1,normal,masculino,sí
+47,582,No,25,130000.0,0.8,134,201,0,0,normal,masculino,no
+58,582,Sí,25,504000.0,1.0,138,205,0,0,normal,masculino,no
+75,675,Sí,60,265000.0,1.4,125,205,0,0,normal,femenino,no
+58,57,No,25,189000.0,1.3,132,205,0,1,normal,masculino,sí
+55,2794,No,35,141000.0,1.0,140,206,0,1,alta,masculino,no
+65,56,No,25,237000.0,5.0,130,207,0,0,normal,femenino,no
+72,211,No,25,274000.0,1.2,134,207,0,0,normal,femenino,no
+60,166,No,30,62000.0,1.7,127,207,1,0,ligeramente alta,femenino,ocasional
+70,93,No,35,185000.0,1.1,134,208,0,0,normal,masculino,sí
+40,129,No,35,255000.0,0.9,137,209,0,1,normal,masculino,no
+53,707,No,38,330000.0,1.4,137,209,0,1,normal,masculino,sí
+53,582,No,45,305000.0,1.1,137,209,0,1,normal,masculino,sí
+77,109,No,50,406000.0,1.1,137,209,0,1,alta,masculino,no
+75,119,No,50,248000.0,1.1,148,209,0,0,alta,masculino,no
+70,232,No,30,173000.0,1.2,132,210,0,0,normal,masculino,no
+65,720,Sí,40,257000.0,1.0,136,210,0,1,normal,femenino,no
+55,180,No,45,263358.03,1.18,137,211,0,1,normal,masculino,sí
+70,81,Sí,35,533000.0,1.3,139,212,0,0,alta,femenino,no
+65,582,Sí,30,249000.0,1.3,136,212,0,0,normal,masculino,sí
+40,90,No,35,255000.0,1.1,136,212,0,0,normal,masculino,sí
+73,1185,No,40,220000.0,0.9,141,213,0,1,alta,femenino,no
+54,582,Sí,38,264000.0,1.8,134,213,0,0,normal,masculino,no
+61,80,Sí,38,282000.0,1.4,137,213,0,1,normal,masculino,no
+55,2017,No,25,314000.0,1.1,138,214,1,0,ligeramente alta,masculino,ocasional
+64,143,No,25,246000.0,2.4,135,214,0,0,normal,masculino,no
+40,624,No,35,301000.0,1.0,142,214,0,0,normal,masculino,sí
+53,207,Sí,40,223000.0,1.2,130,214,0,0,normal,femenino,no
+50,2522,No,30,404000.0,0.5,139,214,0,0,alta,femenino,no
+55,572,Sí,35,231000.0,0.8,143,215,0,0,normal,femenino,no
+50,245,No,45,274000.0,1.0,133,215,0,0,alta,masculino,no
+70,88,Sí,35,236000.0,1.2,132,215,0,0,alta,femenino,no
+53,446,No,60,263358.03,1.0,139,215,0,1,alta,masculino,no
+52,191,Sí,30,334000.0,1.0,142,216,0,1,alta,masculino,sí
+65,326,No,38,294000.0,1.7,139,220,0,0,normal,femenino,no
+58,132,Sí,38,253000.0,1.0,139,230,0,0,alta,masculino,no
+45,66,Sí,25,233000.0,0.8,135,230,0,1,normal,masculino,no
+53,56,No,50,308000.0,0.7,135,231,0,0,normal,masculino,sí
+55,66,No,40,203000.0,1.0,138,233,0,0,normal,masculino,no
+62,655,No,40,283000.0,0.7,133,233,0,1,normal,femenino,no
+65,258,Sí,25,198000.0,1.4,129,235,1,1,ligeramente alta,masculino,ocasional
+68,157,Sí,60,208000.0,1.0,140,237,0,1,normal,femenino,no
+61,582,Sí,38,147000.0,1.2,141,237,0,0,normal,masculino,no
+50,298,No,35,362000.0,0.9,140,240,0,1,normal,masculino,sí
+55,1199,No,20,263358.03,1.83,134,241,1,0,ligeramente alta,masculino,>2 paquetes/día
+56,135,Sí,38,133000.0,1.7,140,244,0,1,normal,masculino,no
+45,582,Sí,38,302000.0,0.9,140,244,0,0,normal,femenino,no
+40,582,Sí,35,222000.0,1.0,132,244,0,0,normal,masculino,no
+44,582,Sí,30,263358.03,1.6,130,244,0,0,alta,masculino,sí
+51,582,Sí,40,221000.0,0.9,134,244,0,0,normal,femenino,no
+67,213,No,38,215000.0,1.2,133,245,0,0,normal,femenino,no
+42,64,No,40,189000.0,0.7,140,245,0,0,normal,masculino,no
+60,257,Sí,30,150000.0,1.0,137,245,0,1,normal,masculino,sí
+45,582,No,38,422000.0,0.8,137,245,0,0,alta,femenino,no
+70,618,No,35,327000.0,1.1,142,245,0,0,normal,femenino,no
+70,582,Sí,38,25100.0,1.1,140,246,0,0,normal,masculino,no
+50,1051,Sí,30,232000.0,0.7,136,246,0,1,normal,femenino,no
+55,84,Sí,38,451000.0,1.3,136,246,0,0,normal,femenino,no
+70,2695,Sí,40,241000.0,1.0,137,247,0,0,normal,masculino,no
+70,582,No,40,51000.0,2.7,136,250,0,0,normal,masculino,sí
+42,64,No,30,215000.0,3.8,128,250,0,0,normal,masculino,sí
+65,1688,No,38,263358.03,1.1,138,250,0,0,normal,masculino,sí
+50,54,No,40,279000.0,0.8,141,250,0,1,normal,masculino,no
+55,170,Sí,40,336000.0,1.2,135,250,0,1,normal,masculino,no
+60,253,No,35,279000.0,1.7,140,250,0,0,normal,masculino,no
+45,582,Sí,55,543000.0,1.0,132,250,0,0,normal,femenino,no
+65,892,Sí,35,263358.03,1.1,142,256,0,0,normal,femenino,no
+90,337,No,38,390000.0,0.9,144,256,0,1,normal,femenino,no
+45,615,Sí,55,222000.0,0.8,141,257,0,0,normal,femenino,no
+60,320,No,35,133000.0,1.4,139,258,0,0,normal,masculino,no
+52,190,Sí,38,382000.0,1.0,140,258,0,0,normal,masculino,sí
+63,103,Sí,35,179000.0,0.9,136,270,0,1,normal,masculino,sí
+62,61,Sí,38,155000.0,1.1,143,270,0,0,alta,masculino,sí
+55,1820,No,38,270000.0,1.2,139,271,0,0,normal,femenino,no
+45,2060,Sí,60,742000.0,0.8,138,278,0,0,normal,femenino,no
+45,2413,No,38,140000.0,1.4,140,280,0,0,normal,masculino,sí
+50,196,No,45,395000.0,1.6,136,285,0,0,normal,masculino,sí
