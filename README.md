@@ -35,7 +35,7 @@ This repository consolidates practical implementations ranging from Classical AI
 
 #### 03. Deep Learning
 *Focus: Neural Networks, Computer Vision, and synthetic data generation.*
-- **🖐️ [Real-Time Finger Gesture Recognition](03-deep_learning/finger_gesture_recognition)**: Convolutional model trained to detect finger positions and predict how many fingers are raised in an open hand.
+- **🖐️ [Finger Gesture Recognition](03-deep_learning/finger_gesture_recognition)**: Convolutional model trained to detect finger positions and predict how many fingers are raised in an open hand.
 - **🧠 [Heart Failure Prediction NN](03-deep_learning/heart_failure_nn)**: Neural Network model predicting mortality in heart failure patients.
 - **🚗 [Synthetic License Plate Generator](03-deep_learning/synthetic_license_plate_generator)**: GAN-inspired model to generate synthetic license plate data for OCR testing.
 - **✈️ [Travel Image Classifier](03-deep_learning/travel_image_classifier)**: Feature extraction using VGG16 (ImageNet) and retrained classifier for destination recognition (beach vs mountain).
